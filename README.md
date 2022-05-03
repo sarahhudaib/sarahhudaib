@@ -27,7 +27,7 @@
 ------------
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/sarah-hudaib-2298a5184/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> 
+## Find me around the web 🌎  
 - Hashnode on <a href="https://sarahthedeveloper.hashnode.dev/">Sarah's blog</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/sarah-hudaib-2298a5184/">LinkedIn</a> 😇
 
