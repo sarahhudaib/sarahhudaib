@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/sarahhudaib?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sarahhudaib&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://wallpaperaccess.com/full/4849699.jpg)
+<!-- ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://wallpaperaccess.com/full/4849699.jpg) -->
 
 ## 👨🏻‍💻 &nbsp;About Me
 
