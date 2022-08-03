@@ -7,14 +7,14 @@
 
 <!-- ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://wallpaperaccess.com/full/4849699.jpg) -->
 
-## 👨🏻‍💻 &nbsp;About Me
+<!-- ## 👨🏻‍💻 &nbsp;About Me
 
 ## I'm a Python Developer !!
 
 - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ✉️ &nbsp;You can shoot me an email at sarahhudaib@yahoo.com! I'll try to respond as soon as I can
-
+ -->
 
 ## 🔧 Technologies & Tools
 
