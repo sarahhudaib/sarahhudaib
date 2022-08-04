@@ -17,7 +17,7 @@
  -->
  
 ------------
-<a href="https://app.daily.dev/sarahhudaib"><img src="https://api.daily.dev/devcards/02f5e215f8f1492dadc0f16ee01dceb8.png?r=qye" width="400" alt="Sarah Hudaib's Dev Card"/></a>
+<a href="https://app.daily.dev/sarahhudaib"><img src="https://api.daily.dev/devcards/02f5e215f8f1492dadc0f16ee01dceb8.png?r=pq7" width="400" alt="Sarah Hudaib's Dev Card"/></a>
 
 ------------
 
