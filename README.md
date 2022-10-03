@@ -18,10 +18,12 @@
     </a>
     </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=sarahhudaib&style=flat-square&color=pink" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sarahhudaib&style=flat-square&color=red" alt=""/>
 </div>
 
-<h3> About me </h3>
+<!-- <h3 align="center"> About me </h3> -->
+
+<h3 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"> About me <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"></h3>
 
 👩‍💻 Full-stack Software developer.
 
@@ -32,14 +34,19 @@
 ✉️ &nbsp;You can shoot me an email at sarahhudaib@yahoo.com! I'll try to respond as soon as I can
 
 <h2></h2>
-<h3> Skills </h3>
+<!-- <h3 align="center"> Skills </h3> -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"> Skills <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"></h3>
+
+<div id="header" align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,python,javascript,nodejs,nextjs,tailwind,heroku,django,docker,github,vscode,md,netlify,postgres,tensorflow&perline=10)](https://skillicons.dev)
 
+</div>
 
 <h2></h2>
 <div></div>
-<h3>Blogs</h3>
+<!-- <h3 align="center">Blogs</h3> -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"> Blogs <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"></h3>
 
 - [How to create a REST API with Django REST framework](https://sarahthedeveloper.hashnode.dev/how-to-create-a-rest-api-with-django-rest-framework)
 
@@ -56,19 +63,57 @@
 <h2></h2>
 <h2></h2>
 <div></div>
-<h3>GitHub Stats</h3>
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sarahhudaib&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sarahhudaib" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhudaib&layout=compact&theme=radical&hide_border=true" alt="sarah" /></p>
+
+<br />
+
+
+
+<!-- <h3 align="center"> Projects </h3> -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"> Projects <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"></h3>
+
+<p align="center">
+<a align="center" href="https://github.com/sarahhudaib/Math-Kit">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarahhudaib&repo=Math-Kit&theme=react" />
+</a>
+<a align="center" href="https://github.com/sarahhudaib/Hacker-News-Project">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarahhudaib&repo=Hacker-News-Project&theme=react" />
+</a>
+</p>
+
+
+
+<h3 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"></h3>
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sarahhudaib&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahhudaib&theme=react" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=sarahhudaib&theme=react-dark" />
+</p>
+
+<!-- <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sarahhudaib&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sarahhudaib" /></p>
+<p align="right"><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhudaib&layout=compact&theme=radical&hide_border=true" alt="sarah" /></p> -->
+
+
+
+
+
+
+<br />
+<br />
 
 <h2></h2>
 
-<br></br>
-<br></br>
-<br></br>
+
 <h2></h2>
 <div></div>
-<h3>Watch my contributions get eaten by a snake 🐍</h3>
+<h3 align="center">Watch my contributions get eaten by a snake 🐍</h3>
 
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
