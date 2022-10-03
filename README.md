@@ -28,7 +28,7 @@
 👩‍💻 Full-stack Software developer.
 
 🤍 Passionate about Back-end.
-  
+
 🌱 Currently working at Fintesa .co as a software developer.
 
 ✉️ &nbsp;You can shoot me an email at sarahhudaib@yahoo.com! I'll try to respond as soon as I can
@@ -57,17 +57,13 @@
 - [Math Kit - Full Python Project](https://sarahthedeveloper.hashnode.dev/math-kit-full-python-project)
 
 - [Python Resources](https://sarahthedeveloper.hashnode.dev/python-resources)
-  
 - [Insertion sort (Python)](https://sarahthedeveloper.hashnode.dev/insertion-sort-python)
 
 <h2></h2>
-<h2></h2>
+
 <div></div>
 
-
 <br />
-
-
 
 <!-- <h3 align="center"> Projects </h3> -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"> Projects <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"></h3>
@@ -81,10 +77,7 @@
 </a>
 </p>
 
-
-
 <h3 align="center"><img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"> GitHub Stats <img src = "https://raw.githubusercontent.com/YAHIAQOUS/YAHIAQOUS/main/images/GitHub.webp" width = "20"></h3>
-
 
 <p align="center">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sarahhudaib&hide=stars,issues&count_private=true&include_all_commits=true&show_icons=true&theme=react"/>
@@ -100,23 +93,11 @@
 <!-- <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sarahhudaib&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sarahhudaib" /></p>
 <p align="right"><img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhudaib&layout=compact&theme=radical&hide_border=true" alt="sarah" /></p> -->
 
-
-
-
-
-
 <br />
 <br />
-
-<h2></h2>
-
 
 <h2></h2>
 <div></div>
 <h3 align="center">Watch my contributions get eaten by a snake 🐍</h3>
 
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
-
-
-
-
