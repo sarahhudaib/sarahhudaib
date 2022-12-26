@@ -1,8 +1,13 @@
 <h4 align="center"><samp> ✋🏾 Hey there! My name is Sarah Hudaib , and I am a 💻 software engineer with a passion for creating innovative and user-friendly web applications. I specialize in backend development and have experience in a variety of programming languages and technologies.
 
-In my free time, I enjoy exploring the latest trends in ☁️ cloud technology and contributing to open source projects. I am always looking for new challenges and opportunities to learn and grow as a developer. 🌼🌸
+<p align="center">
 
-If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with like-minded individuals and explore new ideas. 💕  </samp></h4>
+In my free time, I enjoy exploring the latest trends in ☁️ cloud technology and contributing to open source projects. I am always looking for new challenges and opportunities to learn and grow as a developer. 🌼
+</p>
+
+<p align="center">
+If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with like-minded individuals and explore new ideas. ❤️  </samp></h4>
+</p>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
@@ -19,6 +24,10 @@ If you have a project that you think I would be a good fit for, or if you just w
     <a href="mailto:sarahhudaib744@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black"/>
     </a>
+
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sarahhudaib&style=flat-square&color=blue" alt=""/>
 </div>
 
 <p align="center"><samp>
