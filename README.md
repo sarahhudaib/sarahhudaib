@@ -10,7 +10,8 @@ If you have a project that you think I would be a good fit for, or if you just w
 </p>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <!-- <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"> -->
+  <img width="250" src="./assets/01.png">
 </p>
 
 
